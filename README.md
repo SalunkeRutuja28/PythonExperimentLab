@@ -62,3 +62,16 @@ and additional building blocks, additional vocabulary
 via which, after this same course, you can go off on your own
 and either take other courses or solve projects of your own,
 using all of these mechanisms.
+
+
+
+Week 0's codes on Functions, Variables. Along with Problem Set 0.
+Week 1's codes on Conditionals. Along with Problem Set 1.
+Week 2's codes on Loops. Along with Problem Set 2.
+Week 3's codes on Exceptions. Along with Problem Set 3.
+Week 4's codes on Libraries. Along with Problem Set 4.
+Week 5's codes on Unit Tests. Along with Problem Set 5.
+Week 6's codes on File I/O. Along with Problem Set 6.
+Week 7's codes on Regular Expressions. Along with Problem Set 7.
+Week 8's codes on Object-Oriented Programming. Along with Problem Set 8.
+Week 9's codes on the rest. Along with the Final Project.

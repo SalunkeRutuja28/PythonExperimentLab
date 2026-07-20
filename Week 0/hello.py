@@ -1,7 +1,7 @@
 #input method to take values from user
-# input("What's your name? ")
+input("What's your name? ")
 #prints on console
-# print("hello, world")
+print("hello, world")
 
 name = input("What's your name? ")
 #Remove whitespace from input str
@@ -33,3 +33,9 @@ print(f"hello, {last}")
 """
 several line comments
 """
+def hello(to="world"):
+    print("hello", to)
+
+name = input("What's your name? ")
+hello()
+hello(name)

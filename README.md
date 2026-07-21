@@ -1,7 +1,7 @@
 # PythonExperimentLab
 This has all the coding examples demonstrated in Harvard's CS50 course
 
-#Introduction to programming with Pyhon
+#Introduction to programming with Python
 Whereas CS50 itself is an introduction to the intellectual enterprises
 of computer science and the art of programming,
 this course is specifically focused on programming in Python itself.
